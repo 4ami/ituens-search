@@ -5,7 +5,7 @@
 ## ⚙️ التقنيات المستخدمة
 - Flutter 3.x
 - HTTP package
-- Provider / Bloc (حسب ما استخدمته)
+- Provider / Bloc
 - Debounce logic باستخدام `Pure Dart`
 
 ## 🧠 فكرة المشروع
