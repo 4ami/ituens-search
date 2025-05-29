@@ -1,0 +1,1 @@
+from .search_res_schema import SearchResponseSchema
