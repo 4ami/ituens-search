@@ -76,7 +76,7 @@ uvicorn main:app --reload
 
 # 📡 مثال على طلب بحث
 ```bash
-curl http://localhost:8000/proxy/search?term=فنجان
+curl "http://localhost:8000/proxy/search?term=فنجان"
 ```
 
 # استجابة (JSON)
